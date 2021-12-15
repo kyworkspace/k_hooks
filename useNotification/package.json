@@ -1,0 +1,26 @@
+{
+  "name": "@pky_hooks/use-notification",
+  "version": "1.0.4",
+  "description": "fire notification in web",
+  "main": "useNotification.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyworkspace/k_hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "notification"
+  ],
+  "author": "park_ky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyworkspace/k_hooks/issues"
+  },
+  "homepage": "https://github.com/kyworkspace/k_hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "save": "^2.4.0"
+  }
+}

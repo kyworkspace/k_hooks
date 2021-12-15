@@ -4,7 +4,7 @@
  * @param1 Notification Title
  * @param2 Notification Option (find MDN Notification options)
  * **/
-export const useNotification=(title,options)=>{
+export default useNotification=(title,options)=>{
     //if Notification aren't in window . it return
     if(!("Notification" in window)){
       return
